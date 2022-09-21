@@ -1,0 +1,31 @@
+[
+    {
+      "name":"Tommy",
+      "type": "Teacher",
+      "dob": "03/21/1975",
+      "snack":"Pizza",
+      "id":1
+      
+    },
+    {
+      "name":"Mary",
+      "type": "Doctor",
+      "dob": "11/27/1978",
+      "snack":"Salad",
+      "id":2
+    },
+    {
+      "name":"Jo",
+      "type": "Baker",
+      "dob": "12/18/1983",
+      "snack":"Croissants",
+      "id":3
+    },
+    {
+      "name":"Sally",
+      "type": "Chief",
+      "dob": "1/18/1981",
+      "snack":"Candy bars",
+      "id":4
+    }
+  ]
